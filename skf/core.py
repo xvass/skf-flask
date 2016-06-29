@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import sys, re, os
-from flask import Flask, request, session, g, redirect, url_for, abort, \
-     render_template, flash, Markup, make_response
+from flask import Flask, request, session, g, redirect, url_for, abort, flash, Markup, make_response
 
 # create the application
 app = Flask(__name__)
