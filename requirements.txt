@@ -1,9 +1,11 @@
 flask==0.11.1, <0.12
-markdown==2.6.3
-BeautifulSoup
-python-docx
-lxml==3.4.2
-pyOpenSSL
 requests
 importlib
 flask-bcrypt
+flask_restful
+markupsafe
+jwt
+pyjwt
+aniso8601
+pytz
+
